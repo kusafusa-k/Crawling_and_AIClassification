@@ -12,3 +12,6 @@ vgg16でモデルを作り、h5ファイルとして保存
 - predict.py <br>
 モデルによる予測 <br>
 $python predict.py car1.jpg
+
+- cnn.py <br>
+kerasでモデル構築
