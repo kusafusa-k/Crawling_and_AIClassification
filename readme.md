@@ -15,3 +15,7 @@ $python predict.py car1.jpg
 
 - cnn.py 
 kerasでモデル構築
+
+- aiapps 
+django版predict.py 
+※ml_modelsフォルダにモデル"vgg16_transfer.h5"を入れること
