@@ -1,4 +1,4 @@
-# DjangoアプリクローリングとVGG16による画像分類
+# Djangoアプリ ~ クローリングとVGG16による画像分類 ~
 
 - download.py  
 flickrから画像をダウンロード
